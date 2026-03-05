@@ -42,7 +42,7 @@ sudo apt update && sudo apt install iasl cpio
 ### Automated Setup
 1. Clone the repository:
 ```bash
-git clone [https://github.com/zuhtuEren/Asus-Linux-ACPI-Fix.git](https://github.com/zuhtuEren/Asus-Linux-ACPI-Fix.git)
+git clone https://github.com/zuhtuEren/Asus-Linux-ACPI-Fix.git
 cd Asus-Linux-ACPI-Fix/scripts
 ```
 
